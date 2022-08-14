@@ -1,0 +1,10 @@
+INFO:root:this is info msg
+INFO:root:this is info msg
+INFO:root:this is info msg
+INFO:root:[1, 2, 4, 4, 5, 6, 6]
+this is info msg
+[1, 2, 4, 4, 5, 6, 6]
+this is warning for user
+INFO 2022-06-30 13:03:15,269 root this is info msg 
+INFO 2022-06-30 13:03:15,269 root [1, 2, 4, 4, 5, 6, 6] 
+WARNING 2022-06-30 13:03:15,269 root this is warning for user 
